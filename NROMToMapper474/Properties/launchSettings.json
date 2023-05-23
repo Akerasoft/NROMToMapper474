@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NROMToMapper474": {
+      "commandName": "Project",
+      "commandLineArgs": "--input=mario.nes --output=mario474s0.nes --submapper=0"
+    }
+  }
+}
